@@ -1,5 +1,4 @@
 install the dependecies : 
-
 tensorflow>=1.15.2
 keras==2.3.1
 imutils==0.5.3
